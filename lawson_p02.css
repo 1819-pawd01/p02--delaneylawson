@@ -1,0 +1,31 @@
+/*
+* Name 
+* Due date 
+* project Name and description
+*/
+
+/* the universal selector */
+
+* {}
+
+/* Body Attributes here */
+
+body {
+    background-color: turquoise;
+    color: white;
+    font-family: Georgia
+}
+
+img {
+    height:300px;
+    width:50%;
+}
+
+a:link{
+    color: darkblue;
+    text-decoration: underline;
+}
+a:visited {
+    color: darkcyan;
+}
+    
